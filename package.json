@@ -1,0 +1,8 @@
+{
+  "name": "8fx-micro-template-collection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:8FoldXStudio/8fx-micro-template-collection.git",
+  "author": "CodeMonitor-lab <niteshcse3333@gmail.com>",
+  "license": "MIT"
+}

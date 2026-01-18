@@ -1,1 +1,0 @@
-# 8fx-micro-template-collection
